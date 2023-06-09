@@ -1,0 +1,80 @@
+No pretrained model loaded
+No pretrained model loaded
+No pretrained model loaded
+No pretrained model loaded
+Model for training is done
+Start Training Loop ...
+Model for training is done
+Start Training Loop ...
+Model for training is done
+Start Training Loop ...
+Model for training is done
+Start Training Loop ...
+Eval result: epoch 1, loss: 6.4198126792907715
+Eval result: epoch 1, loss: 6.18226957321167
+Eval result: epoch 1, loss: 6.078938961029053
+Eval result: epoch 1, loss: 6.037398338317871
+Eval result: epoch 2, loss: 6.10234260559082
+Eval result: epoch 2, loss: 6.113719463348389
+Eval result: epoch 2, loss: 6.15217399597168
+Eval result: epoch 2, loss: 5.93275785446167
+Eval result: epoch 3, loss: 5.807868480682373
+Eval result: epoch 3, loss: 6.180235385894775
+Eval result: epoch 3, loss: 6.225659370422363
+Eval result: epoch 3, loss: 6.329489707946777
+Eval result: epoch 4, loss: 5.745330333709717
+Eval result: epoch 4, loss: 5.75332498550415
+Eval result: epoch 4, loss: 6.187051773071289
+Eval result: epoch 4, loss: 5.300567626953125
+Eval result: epoch 5, loss: 5.958198070526123
+Eval result: epoch 5, loss: 5.409937858581543
+Eval result: epoch 5, loss: 5.9966840744018555
+Eval result: epoch 5, loss: 5.620586395263672
+Eval result: epoch 6, loss: 5.905467510223389
+Eval result: epoch 6, loss: 5.793148517608643
+Eval result: epoch 6, loss: 5.499963760375977
+Eval result: epoch 6, loss: 5.8183770179748535
+Eval result: epoch 7, loss: 5.847845554351807
+Eval result: epoch 7, loss: 5.576844215393066
+Eval result: epoch 7, loss: 5.720625877380371
+Eval result: epoch 7, loss: 5.5644330978393555
+Eval result: epoch 8, loss: 5.804037094116211
+Eval result: epoch 8, loss: 5.475142002105713
+Eval result: epoch 8, loss: 5.629271507263184
+Eval result: epoch 8, loss: 5.588761329650879
+Eval result: epoch 9, loss: 6.280893802642822
+Eval result: epoch 9, loss: 5.522347927093506
+Eval result: epoch 9, loss: 5.864763259887695
+Eval result: epoch 9, loss: 5.737790107727051
+Eval result: epoch 10, loss: 5.398175239562988
+Eval result: epoch 10, loss: 5.590760231018066
+Eval result: epoch 10, loss: 5.755239486694336
+Eval result: epoch 10, loss: 5.269283294677734
+Eval result: epoch 11, loss: 5.644500732421875
+Eval result: epoch 11, loss: 5.49586296081543
+Eval result: epoch 11, loss: 5.333647727966309
+Eval result: epoch 11, loss: 5.959033966064453
+Eval result: epoch 12, loss: 5.659303188323975
+Eval result: epoch 12, loss: 5.470429420471191
+Eval result: epoch 12, loss: 5.542746067047119
+Eval result: epoch 12, loss: 5.26368522644043
+Eval result: epoch 13, loss: 5.7615203857421875
+Eval result: epoch 13, loss: 5.6743574142456055
+Eval result: epoch 13, loss: 5.721567630767822
+Eval result: epoch 13, loss: 5.268424034118652
+Eval result: epoch 14, loss: 4.826394557952881
+Eval result: epoch 14, loss: 5.59495735168457
+Eval result: epoch 14, loss: 5.64261531829834
+Eval result: epoch 14, loss: 5.303683280944824
+Eval result: epoch 15, loss: 5.856494903564453
+Eval result: epoch 15, loss: 5.5033674240112305
+Eval result: epoch 15, loss: 5.411380767822266
+Eval result: epoch 15, loss: 5.788292407989502
+Eval result: epoch 16, loss: 5.372311115264893
+Eval result: epoch 16, loss: 5.358924865722656
+Eval result: epoch 16, loss: 5.225289821624756
+Eval result: epoch 16, loss: 5.617320537567139
+Eval result: epoch 17, loss: 5.418814659118652
+Eval result: epoch 17, loss: 4.945233345031738
+Eval result: epoch 17, loss: 5.535410404205322
+Eval result: epoch 17, loss: 5.496795177459717
